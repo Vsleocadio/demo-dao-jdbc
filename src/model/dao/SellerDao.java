@@ -3,6 +3,7 @@ package model.dao;
 import model.entities.Department;
 import model.entities.Seller;
 
+import java.sql.PreparedStatement;
 import java.util.List;
 
 public interface SellerDao {
